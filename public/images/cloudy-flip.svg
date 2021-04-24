@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="1440"
+   height="560"
+   preserveAspectRatio="none"
+   viewBox="0 0 1440 560"
+   id="svg24"
+   sodipodi:docname="Cloudy-flip.svg"
+   inkscape:version="1.0.2 (1.0.2+r75+1)">
+  <metadata
+     id="metadata28">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     id="namedview26"
+     showgrid="false"
+     inkscape:zoom="0.87430556"
+     inkscape:cx="720"
+     inkscape:cy="280"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg24" />
+  <g
+     mask="url(#SvgjsMask1180)"
+     fill="none"
+     id="g12"
+     transform="rotate(180,720.47605,280.42334)">
+    <rect
+       width="1440"
+       height="560"
+       x="0"
+       y="0"
+       fill="url(#SvgjsLinearGradient1181)"
+       id="rect2"
+       style="fill:url(#SvgjsLinearGradient1181)" />
+    <path
+       d="M 1488,560 H 0 V 347.48 q 37.97,-82.03 120,-44.06 43.34,-28.66 72,14.68 54.85,-17.15 72,37.7 43.14,-28.86 72,14.29 19.96,-52.04 72,-32.08 45.59,-74.41 120,-28.83 56.41,-15.58 72,40.83 46.33,-25.67 72,20.66 31.9,-88.1 120,-56.2 41.37,-30.63 72,10.74 56.26,-15.74 72,40.52 6.77,-65.23 72,-58.45 41.86,-30.14 72,11.72 71.93,-48.06 120,23.87 18.54,-53.46 72,-34.92 42.47,-29.53 72,12.95 57.54,-14.46 72,43.08 28.74,-43.25 72,-14.51 z"
+       fill="#182f5d"
+       id="path4" />
+    <path
+       d="M 1488,560 H 0 V 367.39 q 36.49,-35.51 72,0.97 79.28,7.28 72,86.56 21.85,-98.15 120,-76.3 41.24,-30.76 72,10.48 63.84,-8.16 72,55.68 26.14,-45.86 72,-19.72 44.5,-75.5 120,-30.99 48,-72 120,-24 62.17,-9.82 72,52.35 15.72,-56.29 72,-40.57 52.96,-67.04 120,-14.09 96.33,-23.67 120,72.66 22.4,-49.6 72,-27.2 44.29,-75.71 120,-31.41 46.18,-25.81 72,20.37 67.27,-52.73 120,14.54 z"
+       fill="#25467d"
+       id="path6" />
+    <path
+       d="M 1488,560 H 0 V 432.09 q 89.56,-30.44 120,59.13 15.8,-56.2 72,-40.4 51.13,-68.87 120,-17.73 101.55,-18.46 120,83.09 42.52,-77.48 120,-34.96 49.87,-70.13 120,-20.26 30.52,-41.48 72,-10.96 55.31,-16.69 72,38.63 22.03,-49.97 72,-27.94 81.27,-38.73 120,42.53 24.53,-47.47 72,-22.95 19.72,-52.27 72,-32.55 43.8,-28.2 72,15.6 44.58,-75.42 120,-30.84 41.29,-30.71 72,10.58 70.66,-1.34 72,69.32 z"
+       fill="#356cb1"
+       id="path8" />
+    <path
+       d="M 1560,560 H 0 v -9.87 q 37.32,-82.68 120,-45.36 65.23,-54.77 120,10.46 68.81,-51.19 120,17.62 51.06,-20.94 72,30.13 51.08,-68.92 120,-17.84 42.96,-77.04 120,-34.08 85.22,-34.78 120,50.44 41.99,-30.01 72,11.97 33.89,-86.1 120,-52.21 41.28,-30.72 72,10.56 49.54,-22.46 72,27.08 8.98,-63.02 72,-54.04 71.54,-48.46 120,23.08 66.92,-53.07 120,13.85 81.07,-38.93 120,42.13 z"
+       fill="#ffffff"
+       id="path10" />
+  </g>
+  <defs
+     id="defs22">
+    <mask
+       id="SvgjsMask1180">
+      <rect
+         width="1440"
+         height="560"
+         fill="#ffffff"
+         id="rect14" />
+    </mask>
+    <linearGradient
+       x1="15.28%"
+       y1="-39.29%"
+       x2="84.72%"
+       y2="139.29%"
+       gradientUnits="userSpaceOnUse"
+       id="SvgjsLinearGradient1181">
+      <stop
+         stop-color="#0e2a47"
+         offset="0"
+         id="stop17" />
+      <stop
+         stop-color="rgba(54, 54, 54, 1)"
+         offset="1"
+         id="stop19" />
+    </linearGradient>
+  </defs>
+</svg>
